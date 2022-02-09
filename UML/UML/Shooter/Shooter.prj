@@ -968,7 +968,7 @@ LABL 0 Microsoft Sans Serif,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>945DC1F2-AC3C-4D6C-86B4-5026DD27BB88</a:CustomPictureID>
+<a:CustomPictureID>48DB75D2-C737-4862-A0AE-0C6CCF8918C4</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -988,7 +988,7 @@ LABL 0 Microsoft Sans Serif,8,N</a:FontList>
 <a:Code>Classdiagram</a:Code>
 <a:CreationDate>1644229581</a:CreationDate>
 <a:Creator>User</a:Creator>
-<a:ModificationDate>1644230740</a:ModificationDate>
+<a:ModificationDate>1644245695</a:ModificationDate>
 <a:Modifier>User</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/Class Diagram.oom</a:Location>
 <a:Extension>oom</a:Extension>
